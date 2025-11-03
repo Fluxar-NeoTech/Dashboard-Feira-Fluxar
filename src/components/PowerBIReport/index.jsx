@@ -20,7 +20,7 @@ export default function PowerBIDashboard() {
 
       <Header>
         <Title>Dashboard Feira</Title>
-        <Subtitle>Visualização em tempo real dos dados da avaliação realizada na Feira</Subtitle>
+        <Subtitle>Visualização dos dados da avaliação realizada na Feira</Subtitle>
       </Header>
 
       <DashboardContainer>
@@ -28,7 +28,7 @@ export default function PowerBIDashboard() {
       </DashboardContainer>
 
       <Footer>
-        <FooterText>Atualizado em tempo real • Power BI Embedded</FooterText>
+        <FooterText>Atualizado em manualmente • Power BI Embedded</FooterText>
       </Footer>
     </Container>
   );
