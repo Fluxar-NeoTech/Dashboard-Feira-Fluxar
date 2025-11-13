@@ -12,7 +12,7 @@ import {
 
 export default function PowerBIDashboard() {
   const reportUrl =
-    "https://app.powerbi.com/view?r=eyJrIjoiYjk3NTg0MGItM2Q5Yi00YTNkLTg3YjAtZTljOWE0M2RjMzE2IiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9";
+    "https://app.powerbi.com/view?r=eyJrIjoiZGI2NDQyOGYtNGFlOC00ZDVjLThjNTgtMWNhODVkMDVlNjI1IiwidCI6ImIxNDhmMTRjLTIzOTctNDAyYy1hYjZhLTFiNDcxMTE3N2FjMCJ9";
 
   return (
     <Container>

@@ -23,8 +23,6 @@ export default function Navbar() {
           </Logo>
         </Left>
       </NavbarContainer>
-
-,
       <HiddenFileInput
         type="file"
         ref={fileInputRef}
